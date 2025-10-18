@@ -55,3 +55,7 @@ alembic upgrade head
 ```
 python export_openapi.py
 ```
+
+9.  Sapere che dario non ha MAC
+
+10.  dario adesso ha i permessi
